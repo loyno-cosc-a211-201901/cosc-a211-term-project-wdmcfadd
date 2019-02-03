@@ -8,13 +8,17 @@ You can organize your files in this repository folder however you like.  The onl
 
 There is no set sequence for how you perform your project.  However, I do have a suggested sequence for how you perform various steps in developing a working program and handing it in for this course.
 
+### Written projects do not need to use this GitHub Repo
+
+You can submit presentations and your final files through Blackboard and not use GitHub if you see fit.
+
 ### ".md" Files
 
 The files supplied in this directory ending with ".md" are notes and suggestions and documentation for your use.  They are plain text files following a style called "MarkDown". It is widely used and, frankly, it is pretty easy to deal with, rather than bulky Word documents, PDFs, or unformatted texts. You will also notice that GitHub presents these files pretty nicely online. 
 
 ## A-B-C sequence
 
-One effective order for developing your term project is listed in the A, B, C etc ".md" files you find in this directory.  Each of these files summarizes a step that you should find helpful in your work. Please Read these files for a description of each step and then you can decide whether it fits into your project.
+One effective order for developing your term project is listed in the A, B, C etc ".md" files you find in this directory.  Each of these files summarizes a step that you should find helpful in your work. Please read these files for a description of each step and then you can decide whether it fits into your project.
 
 ## Partial Deliveries with 'A', 'B', 'C' etc pull requests
 
