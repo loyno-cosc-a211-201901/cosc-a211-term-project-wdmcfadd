@@ -18,11 +18,11 @@ The files supplied in this directory ending with ".md" are notes and suggestions
 
 However, you should also know that GitHub presents these files pretty nicely online. So click on them in GitHub and you can view them.  Here's an example from this directory:
 
-![](images/cursor on markdown file.png)
+<center><img src="images/cursor on markdown file.png" height="280px"></center>
 
 Click on "F-add-globals-and-functions.md" and you see it nicely formatted:
 
-![](images/GitHub formats markdown.png)
+<center><img src="images/GitHub formats markdown.png" height="280px"></center>
 
 As you work one of these steps, you may want to keep its MarkDown file open on GitHub to view as you work. 
 
