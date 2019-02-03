@@ -12,9 +12,19 @@ There is no set sequence for how you perform your project.  However, I do have a
 
 You can submit presentations and your final files through Blackboard and not use GitHub if you see fit.
 
-### ".md" Files
+### ".md" Files - View these in GitHub
 
-The files supplied in this directory ending with ".md" are notes and suggestions and documentation for your use.  They are plain text files following a style called "MarkDown". It is widely used and, frankly, it is pretty easy to deal with, rather than bulky Word documents, PDFs, or unformatted texts. You will also notice that GitHub presents these files pretty nicely online. 
+The files supplied in this directory ending with ".md" are notes and suggestions and documentation for your use.  They are plain text files following a style called "MarkDown". It is widely used and, frankly, it is pretty easy to deal with, rather than bulky Word documents, PDFs, or unformatted texts. If you view a markdown as a text file, it's pretty easy to see what I've written as guidance.
+
+However, you should also know that GitHub presents these files pretty nicely online. So click on them in GitHub and you can view them.  Here's an example from this directory:
+
+![](images/cursor on markdown file.png)
+
+Click on "F-add-globals-and-functions.md" and you see it nicely formatted:
+
+![](images/GitHub formats markdown.png)
+
+As you work one of these steps, you may want to keep its MarkDown file open on GitHub to view as you work. 
 
 ## A-B-C sequence
 
