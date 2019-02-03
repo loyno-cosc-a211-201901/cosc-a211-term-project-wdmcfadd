@@ -9,7 +9,7 @@ Input and output are the primary way your program will work.  Be sure to pay att
 ## Add Info to your trace messages
 The variables you use for your live code give you helpful information when you need to debug your program. You should see whether some of the variables could improve the trace messages that you coded before.  For example, you might have had:
 
-	//   increment the game counter
+	//	  increment the game counter
 		  cerr << "Incrementing game counter" << endl;
 
 As you implement the function, you may set up the "game counter" by declaring a variable `gameCounter`. You can now add that variable to your message, giving you a still better trace of how your program works.
